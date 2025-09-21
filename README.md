@@ -16,15 +16,15 @@ We regularly host events, workshops, and talks on topics such as **ethical hacki
 ---
 
 ## 🧑‍💻 Chapter Leads
-- **Mohd Atif Khan** – Data science enthusiast & COO at Coding Ninjas 10X Club  
-- **Md Shadab Khan** – Cybersecurity and ethical hacking enthusiast  
+- **Mohd Atif Khan** – Chapter Lead  : [Github](https://github.com/atifkhan78666)
+- **Md Shadab Khan** – Chatper Co-Lead : [Github](https://github.com/ShadabKhan-01)
 
 ## 🎓 Advisor
 - **Mohsin Qureshi** – Senior Subject Matter Expert at IBM & HTB  
 
 ---
 
-## 📅 Upcoming Event
+## 📅 Past Event
 **TechTalk: Cybersecurity, AI & Data Science Edition**  
 - 📅 July 19, 2025  
 - 🌍 Online  
